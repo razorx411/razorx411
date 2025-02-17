@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently studying<br><br>i like coffee btw
+<b>currently studying<b><br><br>i like coffee btw
 
 
 # 💻 Tech Stack:
