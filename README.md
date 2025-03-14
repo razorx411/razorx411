@@ -16,14 +16,6 @@
 <br/>
 <br/>
   
-- 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
-  The Ultimate Checked Proxy List - Update Every 20 Minutes
-- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
-  The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
-  A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
-- 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Aizawa is a command-line webshell designed to execute commands through HTTP header   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
