@@ -7,19 +7,7 @@
 <br/>
 <br/>
 
-- Name: **Reidho Satria** / **レイドー・サトリア**
-
-- Residing in: **South Sumatra, Indonesia**
-
-- Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
-
-- Proficient in: **GNU/Linux** and **FreeBSD**
-
-- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
-
-- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
-
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- Name: Hafid Fathurrohman
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
