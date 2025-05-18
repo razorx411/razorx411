@@ -5,11 +5,23 @@
 
 ---
 
+
 ### 🌟 About Me
-- 🎓 I'm a 2nd-year Information Systems student  
-- 💻 Focused on Java, Web Development, and DevOps  
-- 🚀 Currently building **Chika: AI Waifu Web3 Assistant**  
-- 🧠 Learning: Java ☕ | Spring Boot 🌱 | Solidity 🧱 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 I'm a 2nd-year Information Systems student</li>
+        <li>💻 Focused on Java, Web Development, and DevOps</li>
+        <li>🚀 Currently building <b>Chika: AI Waifu Web3 Assistant</b></li>
+        <li>🧠 Learning: Java ☕ | Spring Boot 🌱 | Solidity 🧱</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ3Y3Q5NGRxNmRpeXZ1bGYyamNhNXYycDRrbmZsNjd5OWtsMjBsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lyN5qwcbXWXr2fUjBa/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 
 ---
