@@ -21,17 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razorx411&show_icons=true&theme=tokyonight" alt="Razor's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razorx411&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 💬 Connect with Me
 <p align="center">
   <a href="mailto:hafid16206@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
