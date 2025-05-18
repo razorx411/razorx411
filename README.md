@@ -25,4 +25,5 @@
 <p align="center">
   <a href="mailto:hafid16206@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://x.com/2021Ezwin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199180814368"><img src ="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
