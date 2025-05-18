@@ -33,9 +33,18 @@
 
 ---
 
+
 ### 💬 Connect with Me
 <p align="center">
   <a href="https://misskey.id/@chibanayasuko"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
   <a href="https://x.com/2021Ezwin"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://steamcommunity.com/profiles/76561199180814368"><img src ="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
+
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=razorx411&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razorx411&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
