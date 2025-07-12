@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Razor 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=I+like+coffe;Long+life+learner;HIDOEPPP+JOKOWIII+!!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=I+like+coffe;Long+life+learner;Thanks+for+visiting+my+GitHub!;Feel+free+to+follow+or+drop+a+comment." alt="Typing SVG" />
 </p>
 
 ---
