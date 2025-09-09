@@ -15,7 +15,7 @@
         <li>💻 Focused on Java, Web Development, and DevOps</li>
         <li>🚀 Currently building <b>Chika: AI Waifu Web3 Assistant</b></li>
         <li>🧠 Learning: Java ☕ | SQL 🐬 | Solidity 🧱  </li>
-        <li> Pfp Art by : https://danbooru.donmai.us/posts/5922249?q=funakinuta </li>
+        <li> Pfp Art by : Jeong yumyum | https://www.pixiv.net/en/users/13539582</li>
       </ul>
     </td>
     <td>
