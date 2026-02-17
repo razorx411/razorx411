@@ -36,7 +36,6 @@
 ### 💬 Connect with Me
 <p align="center">
   <a href="https://misskey.id/@chibanayasuko"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
-
   <a href="https://discord.com/users/ezboy4884"><img src ="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
