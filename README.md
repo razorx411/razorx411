@@ -39,6 +39,6 @@
   <a href="https://discord.com/users/ezboy4884"><img src ="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
- <img src="https://i.pximg.net/img-original/img/2026/02/11/10/30/26/141031397_p0.png" />
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN2bmxjY3hqeHpzc3k4ZzB0cGIwc2l2bzdueWwwaHkybTUxcWFndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zVm6ZZj0RnefZWQZBX/giphy.gif" />
 
 
