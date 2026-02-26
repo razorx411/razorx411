@@ -12,9 +12,9 @@
     <td>
       <ul>
         <li>🎓 I'm a 2nd-year Information Systems student</li>
-        <li>💻 Focused on Java, Web Development, and DevOps</li>
-        <li>🚀 Currently building <b>Chika: AI Waifu Web3 Assistant</b></li>
-        <li>🧠 Learning: Java ☕ | SQL 🐬 | Solidity 🧱  </li>
+        <li>💻 Focused on xxxxx</li>
+        <li>🚀 Currently building <b>xxxxxt</b></li>
+        <li>🧠 Learning: xxxxx  </li>
         <li> Pfp Art by : RioBH | https://www.pixiv.net/en/artworks/139054476</li>
       </ul>
     </td>
