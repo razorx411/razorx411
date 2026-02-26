@@ -12,7 +12,7 @@
     <td>
       <ul>
         <li>🎓 I'm a 2nd-year Information Systems student</li>
-        <li>💻 Focused on █████ ████ ██████ ██ ███ ███████</li>
+        <li>💻 Focused on █████ ████ </li>
         <li>🚀 Currently building <b>████ ███████</b></li>
         <li>🧠 Learning: ██████  </li>
         <li> Pfp Art by : RioBH | https://www.pixiv.net/en/artworks/139054476</li>
