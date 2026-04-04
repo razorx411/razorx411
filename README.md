@@ -15,7 +15,7 @@
         <li>💻 Focused on █████ ████ </li>
         <li>🚀 Currently building <b>████ ███████</b></li>
         <li>🧠 Learning: ██████  </li>
-        <li> Pfp Art by : RioBH | https://www.pixiv.net/en/artworks/139054476</li>
+        <li> Spe-chan can u plz dont kick my viewer :o</li>
       </ul>
     </td>
     <td>
