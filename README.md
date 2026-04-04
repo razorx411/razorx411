@@ -15,8 +15,9 @@
         <li>💻 Focused on █████████ ██████████ </li>
         <li>🚀 Currently building <b>██████████████</b></li>
         <li>🧠 Learning: ████████████ </li>
+        <br>
         <p>
-          🔓 Unlock me at:
+          🔓 🔓 Unlock the uncensored version :
           <a href="https://razorcode.xyz" target="_blank">Here!</a>
         </p>
       </ul>
