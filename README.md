@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN2bmxjY3hqeHpzc3k4ZzB0cGIwc2l2bzdueWwwaHkybTUxcWFndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zVm6ZZj0RnefZWQZBX/giphy.gif" width="200" />
+      <img src="https://media.giphy.com/media/EAwpYT8S8Mts7L6u4F/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
