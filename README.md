@@ -12,10 +12,13 @@
     <td>
       <ul>
         <li>🎓 I'm a 2nd-year Information Systems student</li>
-        <li>💻 Focused on █████ ████ </li>
-        <li>🚀 Currently building <b>████ ███████</b></li>
-        <li>🧠 Learning: ██████  </li>
-        <li> Spe-chan can u plz dont kick my viewer :o</li>
+        <li>💻 Focused on █████████ ██████████ </li>
+        <li>🚀 Currently building <b>██████████████</b></li>
+        <li>🧠 Learning: ████████████ </li>
+        <p>
+          🔓 Unlock me at:
+          <a href="https://razorcode.xyz" target="_blank">Here!</a>
+        </p>
       </ul>
     </td>
     <td>
