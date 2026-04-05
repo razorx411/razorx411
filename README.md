@@ -17,7 +17,7 @@
         <li>🧠 Learning: ████████████ </li>
         <br>
         <p>
-          🔓 Unlock the uncensored version :
+          🔓 Unlock the <s>uncensored</s> version :
           <a href="https://razorcode.xyz" target="_blank">Here!</a>
         </p>
       </ul>
