@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJidnRpMDhkeHI3dXc5ZGEwZzc0cTlycTFpbWVjZ3p6aWllZGp5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xX3uPiPoSFryoCYh53/giphy.gif" width="200" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJzbW56eTAxYjk5Z3d3Z2xjeGpkMmV5OTc0a2p2Y3YycHg3cDA3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
